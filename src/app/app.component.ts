@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DaterangepickerConfig } from './daterangepicker/config.service';
 
-import * as moment from 'moment';
+import * as moment from 'moment-mini';
 
 @Component({
     selector: 'app-root',

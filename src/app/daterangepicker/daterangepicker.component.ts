@@ -4,7 +4,7 @@ import { BehaviorSubject } from 'rxjs/BehaviorSubject';
 import { DaterangepickerConfig } from './config.service';
 
 import * as $ from "jquery";
-import * as moment from 'moment';
+import * as moment from 'moment-mini';
 import 'bootstrap-daterangepicker';
 
 @Directive({

@@ -42,7 +42,7 @@ map: {
     // add ng2-daterangepicker bundles
     'ng2-daterangepicker': 'npm:ng2-daterangepicker',
     'jquery': 'npm:jquery/dist/jquery.js',
-    'moment': 'npm:moment',
+    'moment': 'npm:moment-mini',
     'bootstrap-daterangepicker': 'npm:bootstrap-daterangepicker/daterangepicker.js'
 },
 packages: {
@@ -50,7 +50,7 @@ packages: {
 
     // ng2-daterangepicker packages
     moment: {
-        main: 'moment',
+        main: 'moment-mini',
         defaultExtension: 'js'
     },
     'ng2-daterangepicker': {
