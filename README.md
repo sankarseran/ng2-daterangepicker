@@ -42,7 +42,7 @@ map: {
     // add ng2-daterangepicker bundles
     'ng2-daterangepicker': 'npm:https://github.com/sankarseran/ng2-daterangepicker.git',
     'jquery': 'npm:jquery/dist/jquery.js',
-    'moment-mini': 'npm:moment-mini',
+    'moment-mini': 'npm:https://github.com/sankarseran/moment-mini.git',
     'bootstrap-daterangepicker': 'npm:https://github.com/sankarseran/bootstrap-daterangepicker.git/daterangepicker.js'
 },
 packages: {
@@ -240,7 +240,7 @@ Below is the link to the original project, there's more info regarding the dater
 
 > **Note:**
 * This component is in active development so keep checking for new releases and update to the latest version.
-* This Component depends on jQuery, [Moment.js](http://momentjs.com/) and Bootstrap to work correctly.
+* This Component depends on jQuery, [Moment-mini.js](https://github.com/sankarseran/moment-mini.git) and Bootstrap to work correctly.
 * I have recently added support for `SystemJS` builds in a minor version with a lot of build changes but I do not expect anything to break, if you encounter errors please post an issue or do a pull request to patch it.
 * Contribution is highly encouraged.
 * This package is an Angular (2+) port. see original project http://www.daterangepicker.com

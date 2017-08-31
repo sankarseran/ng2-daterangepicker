@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evansmwendwa/ng2-daterangepicker"
+    "url": "git+https://github.com/sankarseran/ng2-daterangepicker.git"
   },
   "bugs": {
-    "url": "https://github.com/evansmwendwa/ng2-daterangepicker/issues"
+    "url": "https://github.com/sankarseran/ng2-daterangepicker.git/issues"
   },
-  "homepage": "https://github.com/evansmwendwa/ng2-daterangepicker#readme",
+  "homepage": "https://github.com/sankarseran/ng2-daterangepicker.git#readme",
   "license": "MIT",
   "files": [
     "README.md",
@@ -34,7 +34,7 @@
     "@types/jquery": "^3.2.12",
     "bootstrap-daterangepicker": "https://github.com/sankarseran/bootstrap-daterangepicker.git",
     "jquery": "^3.1.1",
-    "moment-mini": "^2.18.1"
+    "moment-mini": "https://github.com/sankarseran/moment-mini.git"
   },
   "devDependencies": {
     "@angular/cli": "1.3.2",
@@ -60,7 +60,7 @@
     "karma-coverage-istanbul-reporter": "^1.3.0",
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
-    "moment-mini": "^2.18.1",
+    "moment-mini": "https://github.com/sankarseran/moment-mini.git",
     "protractor": "~5.1.0",
     "rxjs": "^5.1.0",
     "ts-node": "~3.3.0",
